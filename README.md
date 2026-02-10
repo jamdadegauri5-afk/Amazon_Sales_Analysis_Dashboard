@@ -56,3 +56,6 @@ Format dashboard with proper layout and theme.
 Validate results with original data.
 
 Publish and share the final Power BI report.
+
+
+- Dashboard Image <a href="https://github.com/jamdadegauri5-afk/Amazon_Sales_Analysis_Dashboard/blob/main/Picture%20of%20the%20Dashboard.png">View Image</a>
