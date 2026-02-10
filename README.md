@@ -24,3 +24,35 @@ Sales by Product Category (Text/Heat Map): Utilize a text or heat map visualizat
 Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products based on year-to-date sales to focus on key revenue generators.
 
 Top 5 Products by YTD Reviews (Bar Chart): Identify the top-rated products by year-to-date reviews to understand customer preferences.
+
+- Dashboard Interaction <a href="https://github.com/jamdadegauri5-afk/Amazon_Sales_Analysis_Dashboard/blob/main/Amazon%20Sales%20Dashboard.pbix">View Dashboard</a>
+
+## Project Process
+
+Collect Amazon sales dataset.
+
+Import data into Power BI.
+
+Clean and transform data using Power Query.
+
+Create DAX measures for KPIs (YTD Sales, QTD Sales, YTD Products Sold, YTD Reviews).
+
+Build KPI cards for quick insights.
+
+Create required visuals:
+
+Line Chart – YTD Sales by Month
+
+Column Chart – YTD Sales by Week
+
+Heat Map/Text – Sales by Product Category
+
+Bar Charts – Top 5 Products by Sales & Reviews
+
+Add slicers and filters for interactivity.
+
+Format dashboard with proper layout and theme.
+
+Validate results with original data.
+
+Publish and share the final Power BI report.
