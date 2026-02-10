@@ -59,4 +59,5 @@ Publish and share the final Power BI report.
 
 
 ## Dashboard Image 
-https://github.com/jamdadegauri5-afk/Amazon_Sales_Analysis_Dashboard/blob/main/Picture%20of%20the%20Dashboard.png
+<img width="1298" height="732" alt="Picture of the Dashboard" src="https://github.com/user-attachments/assets/1963d34a-23bc-408b-ac00-39152dae6017" />
+
