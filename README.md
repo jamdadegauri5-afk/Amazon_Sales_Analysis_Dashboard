@@ -61,3 +61,30 @@ Publish and share the final Power BI report.
 ## Dashboard Image 
 <img width="1298" height="732" alt="Picture of the Dashboard" src="https://github.com/user-attachments/assets/1963d34a-23bc-408b-ac00-39152dae6017" />
 
+## Final Insights
+
+Overall sales performance shows steady growth with noticeable peaks in the last quarter.
+
+YTD Sales and QTD Sales KPIs help quickly measure revenue health at different time levels.
+
+Monthly trend analysis highlights seasonal demand fluctuations.
+
+Weekly sales chart reveals short-term spikes and low-performing weeks.
+
+Certain product categories contribute the majority of total revenue.
+
+A small number of products generate most of the YTD sales, showing clear top performers.
+
+Products with the highest reviews indicate strong customer satisfaction and preference.
+
+Interactive filters allow better understanding of category-wise and time-based performance.
+
+## Conclusion
+
+The Power BI dashboard provides a complete, real-time overview of Amazon sales performance.
+
+Data-driven KPIs and visuals help in identifying trends, top products, and weak areas.
+
+Business decisions like inventory planning, marketing focus, and product strategy can be improved using these insights.
+
+The project demonstrates how Power BI transforms raw data into meaningful and actionable business intelligence.
